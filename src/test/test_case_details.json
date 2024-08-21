@@ -1,0 +1,86 @@
+[
+    {
+        "test_case_name_enum": "com.example.nxttrendz2.NxtTrendzControllerTests.testGetCategories"
+    },
+    {
+        "test_case_name_enum": "com.example.nxttrendz2.NxtTrendzControllerTests.testGetProducts"
+    },
+    {
+        "test_case_name_enum": "com.example.nxttrendz2.NxtTrendzControllerTests.testGetCategoryNotFound"
+    },
+    {
+        "test_case_name_enum": "com.example.nxttrendz2.NxtTrendzControllerTests.testGetCategoryById"
+    },
+    {
+        "test_case_name_enum": "com.example.nxttrendz2.NxtTrendzControllerTests.testGetProductNotFound"
+    },
+    {
+        "test_case_name_enum": "com.example.nxttrendz2.NxtTrendzControllerTests.testGetProductById"
+    },
+    {
+        "test_case_name_enum": "com.example.nxttrendz2.NxtTrendzControllerTests.testPostCategory"
+    },
+    {
+        "test_case_name_enum": "com.example.nxttrendz2.NxtTrendzControllerTests.testAfterPostCategory"
+    },
+    {
+        "test_case_name_enum": "com.example.nxttrendz2.NxtTrendzControllerTests.testDbAfterPostCategory"
+    },
+    {
+        "test_case_name_enum": "com.example.nxttrendz2.NxtTrendzControllerTests.testPostProduct"
+    },
+    {
+        "test_case_name_enum": "com.example.nxttrendz2.NxtTrendzControllerTests.testAfterPostProduct"
+    },
+    {
+        "test_case_name_enum": "com.example.nxttrendz2.NxtTrendzControllerTests.testDbAfterPostProduct"
+    },
+    {
+        "test_case_name_enum": "com.example.nxttrendz2.NxtTrendzControllerTests.testPutCategoryNotFound"
+    },
+    {
+        "test_case_name_enum": "com.example.nxttrendz2.NxtTrendzControllerTests.testPutCategory"
+    },
+    {
+        "test_case_name_enum": "com.example.nxttrendz2.NxtTrendzControllerTests.testAfterPutCategory"
+    },
+    {
+        "test_case_name_enum": "com.example.nxttrendz2.NxtTrendzControllerTests.testDbAfterPutCategory"
+    },
+    {
+        "test_case_name_enum": "com.example.nxttrendz2.NxtTrendzControllerTests.testPutProductNotFound"
+    },
+    {
+        "test_case_name_enum": "com.example.nxttrendz2.NxtTrendzControllerTests.testPutProduct"
+    },
+    {
+        "test_case_name_enum": "com.example.nxttrendz2.NxtTrendzControllerTests.testAfterPutProduct"
+    },
+    {
+        "test_case_name_enum": "com.example.nxttrendz2.NxtTrendzControllerTests.testDbAfterPutProduct"
+    },
+    {
+        "test_case_name_enum": "com.example.nxttrendz2.NxtTrendzControllerTests.testDeleteProductNotFound"
+    },
+    {
+        "test_case_name_enum": "com.example.nxttrendz2.NxtTrendzControllerTests.testDeleteProduct"
+    },
+    {
+        "test_case_name_enum": "com.example.nxttrendz2.NxtTrendzControllerTests.testAfterDeleteProduct"
+    },
+    {
+        "test_case_name_enum": "com.example.nxttrendz2.NxtTrendzControllerTests.testDeleteCategoryNotFound"
+    },
+    {
+        "test_case_name_enum": "com.example.nxttrendz2.NxtTrendzControllerTests.testDeleteCategory"
+    },
+    {
+        "test_case_name_enum": "com.example.nxttrendz2.NxtTrendzControllerTests.testAfterDeleteCategory"
+    },
+    {
+        "test_case_name_enum": "com.example.nxttrendz2.NxtTrendzControllerTests.testGetCategoryByProductId"
+    },
+    {
+        "test_case_name_enum": "com.example.nxttrendz2.SmokeTest.contextLoads"
+    }
+]
